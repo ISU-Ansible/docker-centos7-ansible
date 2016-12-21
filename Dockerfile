@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER Jeff Geerling
+MAINTAINER Barry Britt <bbritt@iastate.edu>
 ENV container=docker
 
 # Install systemd -- See https://hub.docker.com/_/centos/
